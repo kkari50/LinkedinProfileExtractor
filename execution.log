@@ -1,0 +1,221 @@
+01:11:13,697 root INFO Login Username Entered.
+01:11:13,835 root INFO Login Password Entered.
+01:11:20,453 root INFO Submitted Login information to Linkedin Server.
+01:11:20,476 root INFO Login Successful.
+01:11:34,914 root INFO Navigated to https://www.linkedin.com/company/sense-corp/ webpage successfully.
+01:14:56,43 root INFO Login Username Entered.
+01:14:56,142 root INFO Login Password Entered.
+01:15:01,260 root INFO Submitted Login information to Linkedin Server.
+01:15:01,913 root INFO Login Successful.
+01:15:15,744 root INFO Navigated to https://www.linkedin.com/company/sense-corp/ webpage successfully.
+01:15:21,925 root INFO Navigated to all Employee profiles successfully.
+01:15:22,731 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="f5e4105ff507d9682678c30dfc51aa4c", element="1b59bdb3-ecee-4f68-ba77-3e4285da9e67")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:15:22,962 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="f5e4105ff507d9682678c30dfc51aa4c", element="45514fc4-1096-4fcc-8b60-9c445e2c3b15")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:15:23,477 root INFO Failed to find element search-result__result-link for <selenium.webdriver.remote.webelement.WebElement (session="f5e4105ff507d9682678c30dfc51aa4c", element="45514fc4-1096-4fcc-8b60-9c445e2c3b15")>: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=84.0.4147.89)
+.
+01:15:23,478 root INFO Total Scraped items: 1
+01:15:23,478 root INFO ---------------Finished scraping------------------
+01:19:05,293 root INFO Login Username Entered.
+01:19:05,400 root INFO Login Password Entered.
+01:19:10,529 root INFO Submitted Login information to Linkedin Server.
+01:19:10,619 root INFO Login Successful.
+01:19:25,747 root INFO Navigated to https://www.linkedin.com/company/sense-corp/ webpage successfully.
+01:19:32,902 root INFO Navigated to all Employee profiles successfully.
+01:19:33,940 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="a99aadfd74872cf1fbc717558300c2bb", element="7acedc6e-80f7-4dec-9e42-8414bcb97d72")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:19:34,174 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="a99aadfd74872cf1fbc717558300c2bb", element="b0bd5046-7bee-41f4-b402-fac6bd404853")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:19:34,795 root INFO Failed to find element subline-level-2 for <selenium.webdriver.remote.webelement.WebElement (session="a99aadfd74872cf1fbc717558300c2bb", element="b0bd5046-7bee-41f4-b402-fac6bd404853")>: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=84.0.4147.89)
+.
+01:19:34,971 root INFO Failed to find element search-result__result-link for <selenium.webdriver.remote.webelement.WebElement (session="a99aadfd74872cf1fbc717558300c2bb", element="b0bd5046-7bee-41f4-b402-fac6bd404853")>: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=84.0.4147.89)
+.
+01:19:34,971 root INFO Total Scraped items: 1
+01:19:34,971 root INFO ---------------Finished scraping------------------
+01:20:16,941 root INFO Login Username Entered.
+01:20:17,83 root INFO Login Password Entered.
+01:20:17,967 root INFO Submitted Login information to Linkedin Server.
+01:20:19,173 root INFO Login Successful.
+01:20:35,270 root INFO Navigated to https://www.linkedin.com/company/sense-corp/ webpage successfully.
+01:20:41,490 root INFO Navigated to all Employee profiles successfully.
+01:21:50,107 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="afa91d4366e31d9fbb4c9a3d217eae79", element="bd87f894-c112-4fec-8bd5-0ff5c29fe701")>: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=84.0.4147.89)
+.
+01:26:20,107 root INFO Login Username Entered.
+01:26:20,194 root INFO Login Password Entered.
+01:26:26,283 root INFO Submitted Login information to Linkedin Server.
+01:26:26,945 root INFO Login Successful.
+01:26:41,271 root INFO Navigated to https://www.linkedin.com/company/sense-corp/ webpage successfully.
+01:26:48,425 root INFO Navigated to all Employee profiles successfully.
+01:26:54,277 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="2be6ff11a0f7230ee82701252d73a2ad", element="3ae53b2b-c7f1-46be-94db-8f1ab342e2ce")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:26:54,431 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="2be6ff11a0f7230ee82701252d73a2ad", element="4d950d95-758c-470d-b9e8-9ea563ee6e8a")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:26:54,586 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="2be6ff11a0f7230ee82701252d73a2ad", element="a581b0d6-17a0-4e24-8501-026cf0e4aaaa")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:26:54,730 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="2be6ff11a0f7230ee82701252d73a2ad", element="c37fda1f-953c-428a-8414-38fe2abd18f2")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:26:54,895 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="2be6ff11a0f7230ee82701252d73a2ad", element="fabb15b6-e2e8-447a-a29e-c3ec20b14345")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:26:55,67 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="2be6ff11a0f7230ee82701252d73a2ad", element="da030be9-0259-4990-8bba-08b34a509824")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:26:55,230 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="2be6ff11a0f7230ee82701252d73a2ad", element="26e53c08-efa9-4930-8d93-1c8393825640")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:26:55,361 root INFO Total Scraped items: 7
+01:26:55,361 root INFO ---------------Finished scraping------------------
+01:56:27,268 root INFO Login Username Entered.
+01:56:27,357 root INFO Login Password Entered.
+01:56:48,396 root INFO Submitted Login information to Linkedin Server.
+01:56:48,458 root INFO Login Successful.
+01:57:11,180 root INFO Navigated to https://www.linkedin.com/company/sense-corp/ webpage successfully.
+01:57:18,336 root INFO Navigated to all Employee profiles successfully.
+01:57:22,114 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="b0655dcf7a302456867cb1a9be1ca6b9", element="43dd4374-9654-4b93-973c-8504e42efbb5")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:57:22,200 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="b0655dcf7a302456867cb1a9be1ca6b9", element="2e507fc6-041c-495a-b4d9-d47ff294be13")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:57:22,286 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="b0655dcf7a302456867cb1a9be1ca6b9", element="172a5507-2e70-4853-82df-f48df3b84cff")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:57:22,357 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="b0655dcf7a302456867cb1a9be1ca6b9", element="2c253f64-df1e-4249-a0b4-13c15c65ae87")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:57:22,472 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="b0655dcf7a302456867cb1a9be1ca6b9", element="936c610f-ebb7-4e73-a950-7d9543f8d603")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:57:22,598 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="b0655dcf7a302456867cb1a9be1ca6b9", element="34af3bde-dc4a-4cfc-9f5b-78b1255228c6")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:57:22,723 root INFO Failed to find element actor_name for <selenium.webdriver.remote.webelement.WebElement (session="b0655dcf7a302456867cb1a9be1ca6b9", element="2c4c5164-496b-4807-8d12-9b14883c1d84")>: Message: no such element: Unable to locate element: {"method":"css selector","selector":".actor_name"}
+  (Session info: chrome=84.0.4147.89)
+.
+01:57:23,165 root INFO Failed to find element search-result__result-link for <selenium.webdriver.remote.webelement.WebElement (session="b0655dcf7a302456867cb1a9be1ca6b9", element="2c4c5164-496b-4807-8d12-9b14883c1d84")>: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=84.0.4147.89)
+.
+01:57:23,165 root INFO Total Scraped items: 6
+01:57:23,165 root INFO ---------------Finished scraping------------------
+02:12:01,65 root INFO Login Username Entered.
+02:12:01,199 root INFO Login Password Entered.
+02:12:06,428 root INFO Submitted Login information to Linkedin Server.
+02:12:06,586 root INFO Login Successful.
+02:12:23,658 root INFO Navigated to https://www.linkedin.com/company/sense-corp/ webpage successfully.
+02:12:27,823 root INFO Navigated to all Employee profiles successfully.
+02:14:15,657 root INFO Login Username Entered.
+02:14:15,812 root INFO Login Password Entered.
+02:14:21,512 root INFO Submitted Login information to Linkedin Server.
+02:14:21,574 root INFO Login Successful.
+02:14:37,504 root INFO Navigated to https://www.linkedin.com/company/sense-corp/ webpage successfully.
+02:14:45,786 root INFO Navigated to all Employee profiles successfully.
+02:16:46,486 root INFO Total Scraped items: 7
+02:16:48,272 root INFO ---------------Finished scraping------------------
+02:19:06,981 root INFO Login Username Entered.
+02:19:07,67 root INFO Login Password Entered.
+02:19:12,875 root INFO Submitted Login information to Linkedin Server.
+02:19:12,896 root INFO Login Successful.
+02:19:33,185 root INFO Navigated to https://www.linkedin.com/company/sense-corp/ webpage successfully.
+02:19:40,351 root INFO Navigated to all Employee profiles successfully.
+02:20:08,705 root INFO Clicked Next page. Scraping page 2
+02:20:50,418 root INFO Total Scraped items: 13
+02:20:51,909 root INFO ---------------Finished scraping------------------
+02:54:11,475 root INFO Login Username Entered.
+02:54:11,606 root INFO Login Password Entered.
+02:54:16,644 root INFO Submitted Login information to Linkedin Server.
+02:54:17,242 root INFO Login Successful.
+02:54:32,733 root INFO Navigated to https://www.linkedin.com/company/sense-corp/ webpage successfully.
+02:54:36,882 root INFO Navigated to all Employee profiles successfully.
+02:56:36,315 root INFO Clicked Next page. Scraping page 2
+02:56:52,8 root INFO Total Scraped items: 16
+02:56:53,501 root INFO ---------------Finished scraping------------------
+02:58:52,494 root INFO Validating scraped list with database..!: len[scraped_list]: 15
+02:59:36,97 root INFO Login Username Entered.
+02:59:36,184 root INFO Login Password Entered.
+02:59:42,631 root INFO Submitted Login information to Linkedin Server.
+02:59:42,692 root INFO Login Successful.
+03:00:00,523 root INFO Navigated to https://www.linkedin.com/company/sense-corp/ webpage successfully.
+03:00:04,664 root INFO Navigated to all Employee profiles successfully.
+03:00:10,727 root INFO Clicked Next page. Scraping page 2
+03:00:15,905 root INFO Total Scraped items: 13
+03:00:15,905 root INFO ---------------Finished scraping------------------
+03:03:45,907 root INFO Login Username Entered.
+03:03:46,173 root INFO Login Password Entered.
+03:03:54,865 root INFO Submitted Login information to Linkedin Server.
+03:03:55,117 root INFO Login Successful.
+03:04:11,142 root INFO Navigated to https://www.linkedin.com/company/sense-corp/ webpage successfully.
+03:04:16,325 root INFO Navigated to all Employee profiles successfully.
+03:04:23,793 root INFO Clicked Next page. Scraping page 2
+03:04:27,715 root INFO Total Scraped items: 16
+03:04:27,715 root INFO ---------------Finished scraping------------------
+03:05:13,265 root INFO Login Username Entered.
+03:05:13,427 root INFO Login Password Entered.
+03:05:14,425 root INFO Submitted Login information to Linkedin Server.
+03:05:15,928 root INFO Login Successful.
+03:05:34,531 root INFO Navigated to https://www.linkedin.com/company/sense-corp/ webpage successfully.
+03:05:40,720 root INFO Navigated to all Employee profiles successfully.
+03:05:46,796 root INFO Clicked Next page. Scraping page 2
+03:05:52,754 root INFO Total Scraped items: 13
+03:05:52,755 root INFO ---------------Finished scraping------------------
+03:06:17,684 root INFO Validating scraped list with database..!: len[scraped_list]: 12
+03:08:06,209 root INFO Login Username Entered.
+03:08:06,337 root INFO Login Password Entered.
+03:08:13,810 root INFO Submitted Login information to Linkedin Server.
+03:08:13,835 root INFO Login Successful.
+03:08:32,367 root INFO Navigated to https://www.linkedin.com/company/sense-corp/ webpage successfully.
+03:08:37,538 root INFO Navigated to all Employee profiles successfully.
+03:08:44,567 root INFO Clicked Next page. Scraping page 2
+03:08:48,403 root INFO Total Scraped items: 13
+03:08:48,403 root INFO ---------------Finished scraping------------------
+03:09:08,801 root INFO Validating scraped list with database..!: len[scraped_list]: 12
+03:09:27,92 root INFO Validation completed. Final List len: 12
+03:10:39,311 root INFO Login Username Entered.
+03:10:39,500 root INFO Login Password Entered.
+03:10:46,982 root INFO Submitted Login information to Linkedin Server.
+03:10:47,29 root INFO Login Successful.
+03:11:04,888 root INFO Navigated to https://www.linkedin.com/company/sense-corp/ webpage successfully.
+03:11:12,103 root INFO Navigated to all Employee profiles successfully.
+03:11:21,11 root INFO Clicked Next page. Scraping page 2
+03:11:25,39 root INFO Total Scraped items: 16
+03:11:25,39 root INFO ---------------Finished scraping------------------
+03:11:25,189 root INFO Validating scraped list with database..!: len[scraped_list]: 15
+03:11:25,210 root INFO Validation completed. Final List len: 15
+03:11:25,620 root INFO Write to Database Successful.
+03:29:12,814 root INFO Login Username Entered.
+03:29:12,914 root INFO Login Password Entered.
+03:29:17,969 root INFO Submitted Login information to Linkedin Server.
+03:29:18,18 root INFO Login Successful.
+03:29:32,379 root INFO Navigated to https://www.linkedin.com/company/polycompany/ webpage successfully.
+03:29:36,548 root INFO Navigated to all Employee profiles successfully.
+03:29:41,484 root INFO Clicked Next page. Scraping page 2
+03:29:47,734 root INFO Clicked Next page. Scraping page 3
+03:29:52,823 root INFO Clicked Next page. Scraping page 4
+03:29:57,30 root INFO Clicked Next page. Scraping page 5
+03:30:03,118 root INFO Clicked Next page. Scraping page 6
+03:30:09,304 root INFO Clicked Next page. Scraping page 7
+03:30:15,593 root INFO Clicked Next page. Scraping page 8
+03:30:21,655 root INFO Clicked Next page. Scraping page 9
+03:30:26,640 root INFO Clicked Next page. Scraping page 10
+03:30:32,719 root INFO Clicked Next page. Scraping page 11
+03:30:37,703 root INFO Clicked Next page. Scraping page 12
+03:30:41,805 root INFO Clicked Next page. Scraping page 13
+03:30:47,925 root INFO Clicked Next page. Scraping page 14
+03:30:53,32 root INFO Clicked Next page. Scraping page 15
+03:30:56,643 root INFO Total Scraped items: 115
+03:30:56,643 root INFO ---------------Finished scraping------------------
+03:30:56,713 root INFO Validating scraped list with database..!: len[scraped_list]: 112
+03:30:56,747 root INFO Validation completed. Final List len: 112
+03:30:57,59 root INFO Write to Database Successful.

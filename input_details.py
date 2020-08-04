@@ -4,7 +4,7 @@ import logging
 
 
 #--------------------------------------------Main Search Criteria--------------------------------
-company_home_url='https://www.linkedin.com/company/polycompany/' #----------takes this as input
+company_home_url='https://www.linkedin.com/company/twitter/' #----------takes this as input
 search_query = "recruiter OR talent OR headhunter or hiring"
 company_name = company_home_url.replace('https://www.linkedin.com/company/','').strip('/')
 #--------------------------------------------Logging------------------------------------------------------

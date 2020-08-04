@@ -1,13 +1,34 @@
 from engine import *
 from database import *
+from selenium.webdriver import Firefox
+from selenium.webdriver.firefox.options import Options
 
-driver = webdriver.Chrome(driver_path)
+# driver = webdriver.Chrome(driver_path)
+opts = Options()
+# opts.headless = True
+driver=webdriver.Firefox(options=opts)
+
 driver.get('https://www.linkedin.com/')
 sign_in(driver, ln_username, ln_password) #-----sign in to linkedin..!!
 time.sleep(random_time(3,5))
 
-driver.execute_script("window.open('');")
-driver.switch_to.window(driver.window_handles[1])
+try:
+    while True:
+        verification_ele = driver.find_element_by_id('email-pin-challenge')
+        print('Please Verify...!!')
+        time.sleep(3)
+        # value_to_enter = input("Enter the Verification ID sent to Email: ")
+
+
+except:
+    print('Verification Done. Continuing now.')
+    time.sleep(4)
+    pass
+
+
+
+# driver.execute_script("window.open('');")
+# driver.switch_to.window(driver.window_handles[1])
 
 driver.maximize_window()
 

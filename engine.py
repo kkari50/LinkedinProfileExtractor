@@ -57,6 +57,7 @@ def open_all_emp_page(driver):
         val = ele.get_attribute('data-control-name')
         if val == 'topcard_see_all_employees':
             req_ele = ele
+            req_ele.click()
         else:
             continue
 
